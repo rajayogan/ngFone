@@ -1,0 +1,14 @@
+{
+  "name": "ng-fone",
+  "version": "1.0.0",
+  "description": "An easy way to get your phone's market name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phonename"
+  ],
+  "author": "Rajayogan <rajayogan27@gmail.com>",
+  "license": "MIT"
+}
